@@ -17,4 +17,4 @@ HTB 🚀:
     
 Notas Importantes:
 
-(🚨 Ten en cuenta que este repositorio es un trabajo en curso y puede haber cambios frecuentes.)
+>🚨 Ten en cuenta que este repositorio es un trabajo en curso y puede haber cambios frecuentes.
