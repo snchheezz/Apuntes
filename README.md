@@ -6,16 +6,11 @@ https://mega.nz/file/Qicg0DaT#D8Vj7Ie3aHYw7WsNRswKgEbkn42ay7jdrWWeCyxjCuQ
 > [!TIP]
 Contenido del Repositorio:
 
->     Apuntes de Estudio 📖:
-
+    Apuntes de Estudio 📖:
     Encuentra detallados apuntes que he formulado mientras exploraba diferentes temas. Estos documentos se actualizan continuamente a medida que mi comprensión y conocimientos evolucionan.
-
->        Proyectos Personales 💡:
-
+    Proyectos Personales 💡:
     Explora los proyectos que he emprendido, desde pequeñas experimentaciones hasta desafíos más complejos. Este espacio es un reflejo de mi viaje de aprendizaje y desarrollo práctico.
-
->     HTB 🚀:
-
+    HTB 🚀:
     Sigue mi camino por el red team y como voy avanzando y desarrollando cada vez maquinas mas complejas con el tiempo.
     
 Notas Importantes:
