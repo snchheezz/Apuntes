@@ -16,3 +16,6 @@ Contenido del Repositorio:
 Notas Importantes:
 > [!NOTE]
 >🚨 Ten en cuenta que este repositorio es un trabajo en curso y puede haber cambios frecuentes.
+
+
+¡Tu participación es invaluable! Si tienes alguna sugerencia, corrección o simplemente quieres dejar un comentario, no dudes en hacerlo. Este repositorio es un espacio abierto para compartir conocimientos y fomentar la colaboración.
