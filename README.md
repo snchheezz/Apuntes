@@ -16,5 +16,5 @@ HTB 🚀:
     Sigue mi camino por el red team y como voy avanzando y desarrollando cada vez maquinas mas complejas con el tiempo.
     
 Notas Importantes:
-
+> [!NOTE]
 >🚨 Ten en cuenta que este repositorio es un trabajo en curso y puede haber cambios frecuentes.
