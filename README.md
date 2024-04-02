@@ -10,9 +10,11 @@ https://mega.nz/file/Qicg0DaT#D8Vj7Ie3aHYw7WsNRswKgEbkn42ay7jdrWWeCyxjCuQ
   >  Encuentra detallados apuntes que he formulado mientras exploraba diferentes temas. Estos documentos se actualizan continuamente a medida que mi comprensión y conocimientos evolucionan.
 
 >Proyectos Personales 💡:
+>
 >    Explora los proyectos que he emprendido, desde pequeñas experimentaciones hasta desafíos más complejos. Este espacio es un reflejo de mi viaje de aprendizaje y desarrollo práctico.
 >
 >HTB 🚀:
+>
     Sigue mi camino por el red team y como voy avanzando y desarrollando cada vez maquinas mas complejas con el tiempo.
     
 Notas Importantes:
