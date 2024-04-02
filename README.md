@@ -3,7 +3,7 @@
 https://mega.nz/file/Qicg0DaT#D8Vj7Ie3aHYw7WsNRswKgEbkn42ay7jdrWWeCyxjCuQ
 
 ¡Hola y bienvenido/a a mi repositorio personal! Aquí es donde registro mis apuntes, ideas y proyectos mientras exploró el emocionante mundo de la informática. Este espacio es una ventana a mi proceso de aprendizaje y desarrollo creativo.
-
+> [!TIP]
 Contenido del Repositorio:
 
 
